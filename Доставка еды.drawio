@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T14:49:28.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VFnbUgoFcw0V8liPoW8c" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T14:57:33.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_vjd9QMv_fwHG1uYyLq5" version="24.6.4" type="github">
   <diagram name="Страница — 1" id="VDZSmeSXkAvrDKCOVdHw">
     <mxGraphModel dx="1713" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
           <mxGeometry y="150" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7gXbQuAfjd_cv0Ir8azA-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Products&lt;/font&gt;&lt;/font&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="350" width="160" height="200" as="geometry">
+          <mxGeometry x="550" y="320" width="160" height="200" as="geometry">
             <mxRectangle x="440" y="210" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
