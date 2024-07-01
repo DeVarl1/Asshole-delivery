@@ -1,81 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T20:40:38.553Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="muXRH3iZEytDC1-IExXv" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T13:26:52.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QZ18Y9cbWpTVJ1t0N0ZR" version="24.6.4" type="github">
   <diagram name="Страница — 1" id="VDZSmeSXkAvrDKCOVdHw">
-    <mxGraphModel dx="2261" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KfjOS5q5E_NBYreVgKUc-1" target="KfjOS5q5E_NBYreVgKUc-112">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Пользователь&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="240" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KfjOS5q5E_NBYreVgKUc-112" target="KfjOS5q5E_NBYreVgKUc-113">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-112" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Авторизация&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="250" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KfjOS5q5E_NBYreVgKUc-113" target="KfjOS5q5E_NBYreVgKUc-115">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-113" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Выбор ресторана&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="250" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-114" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Выбор блюда&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="180" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KfjOS5q5E_NBYreVgKUc-115" target="KfjOS5q5E_NBYreVgKUc-116">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KfjOS5q5E_NBYreVgKUc-115" target="KfjOS5q5E_NBYreVgKUc-114">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="270" />
-              <mxPoint x="580" y="195" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KfjOS5q5E_NBYreVgKUc-117">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="270" as="sourcePoint" />
-            <mxPoint x="660" y="345" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="580" y="270" />
-              <mxPoint x="580" y="345" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-115" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Заказ блюд&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="250" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-116" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Расчет стоимости&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bvertical-align%3A%20inherit%3B%26quot%3B%26 gt%3B%26lt%3Bшрифт%20стиль%3D%26quot%3Bвертикальное-выравнивание%3A%20унаследовать%3B%26quot%3B%26gt%3B%26lt%3Bшрифт%20стиль%3D%26quot%3Bвертикальное-выравнивание%3A%20унаследовать%3B%26quot%3B%26gt%3B%26lt%3Bшрифт%20стиль%3D%26quot%3Bвертикальное-выравнивание%3A%20in наследует%3B%26quot%3B%26gt%3B%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0%26lt%3B%2Fшрифт%26gt%3B%26lt%3B%2Fшрифт%26gt%3B%26lt%3B%2Fшрифт%26gt%3B%26lt%3B%2Fшрифт%26gt%3B%22%20стиль%3D%22эллипс%3BбелыйПробел%3Dw rap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22690%22%20y%3D%2210%22%20width%3D%22100%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="255" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-117" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Оплата заказа&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="330" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-130" value="&lt;font style=&quot;vertical-align: inherit; font-size: 10px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;&lt;/font&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="590" y="180" width="50" height="6" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-131" value="&lt;font style=&quot;vertical-align: inherit; font-size: 10px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;&lt;/font&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="590" y="260" width="50" height="6" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-132" value="&lt;font style=&quot;vertical-align: inherit; font-size: 10px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 10px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;&lt;/font&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Times New Roman;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="590" y="330" width="50" height="6" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-133" value="Приложение доставки" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="740" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-134" value="Администратор сервиса" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="20" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.439;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KfjOS5q5E_NBYreVgKUc-134" target="KfjOS5q5E_NBYreVgKUc-133">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KfjOS5q5E_NBYreVgKUc-136" value="Diagram Heading" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="40" y="450" width="740" height="310" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
